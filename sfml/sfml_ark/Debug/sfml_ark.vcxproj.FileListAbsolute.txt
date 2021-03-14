@@ -1,0 +1,2 @@
+X:\arkkitehtuuri\sfml\sfml_ark\Debug\sfml_ark.exe
+X:\arkkitehtuuri\sfml\sfml_ark\Debug\sfml_ark.pdb
